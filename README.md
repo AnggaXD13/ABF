@@ -28,5 +28,6 @@ $ python ABF.py
 
 ## ✭ Warning ✭ ##
 ```
+Gunakan Dengan Bijak! 
 Matikan Data Dan Mode Pesawat Sebelum Crack!
 
