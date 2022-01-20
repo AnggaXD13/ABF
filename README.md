@@ -26,8 +26,9 @@ $ cd ABF
 
 $ python ABF.py 
 
-## ✭ Warning ✭ ##
+## ✭ Sosmed ✭ ##
 ```
-Gunakan Dengan Bijak! 
-Matikan Data Dan Mode Pesawat Sebelum Crack!
-
+YouTube   : Angga-XD
+Instagram : AnggaTP55
+Whatsapp  : 085713275791
+Facebook  : AnggaXD13
